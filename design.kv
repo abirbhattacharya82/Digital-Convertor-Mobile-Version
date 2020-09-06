@@ -1,0 +1,26 @@
+<Sc>:
+	GridLayout:
+		cols:1
+		padding: 15,15
+        spacing: 20,20
+		GridLayout:
+			cols:1
+			Label:
+    			font_size:"50sp"
+				text: "Digital Convertor"
+			TextInput:
+    			id:bina
+				hint_text: "Binary"
+			TextInput:
+    			id:dec
+				hint_text: "Decimal"
+    		RelativeLayout:
+    			Button:
+    				text:"Convert"
+    				on_press:root.convert(root.ids.bina.text,root.ids.dec.text)
+    				size_hint:0.3,0.5
+                    pos_hint: {"center_x":0.5,"center_y":0.6}
+<RootWidget>:
+    Sc:
+        name:"home"
+        
