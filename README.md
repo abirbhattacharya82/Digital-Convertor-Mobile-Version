@@ -10,7 +10,7 @@
 * Kivy library should be installed in your machine as well.
 * To run the code install the app from the apk file provided in this Repo on your respective android devices.
 -----------------------
-* Before Making any Contribution make sure you read the [Guidelines](Guideines.md) properly.
+* Before Making any Contribution make sure you read the [Guidelines](Guidelines.md) properly.
 * Struck and Unable to make any Contributions even if you want check out [How to Contribute](how_to_contribute.md)
 * New to GiHub?
   * [Intro to GitHub](https://www.youtube.com/watch?v=V4K6Dy9DWm8)
@@ -18,5 +18,5 @@
   * [Cloning a Repository](https://www.youtube.com/watch?v=L2_XikMM0nI)
   * [Contributing to a Project](https://www.youtube.com/watch?v=b-hGpPrVcus)
 -------------------------------- 
-## I made this project using kivy library in Python. If you find it helpful consider giving it a star.
+## I made this project using kivy library in Python. If you find it helpful consider giving it a :star:.
 #### Have a Good Day.
